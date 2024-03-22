@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">4pr</string>
+    <string name="button_check_students_text">Посмотреть студентов</string>
+    <string name="button_check_teachers_text">Посмотреть преподавателей</string>
+
+    <string name="first_fragment_list_view_item_text">Текст элемента ListView</string>
+    <string name="second_fragment_recycler_view_item_text">Текст элемента RecyclerView</string>
+    <string name="first_fragment_text">FirstFragment</string>
+    <string name="second_fragment_text">SecondFragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
